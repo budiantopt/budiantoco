@@ -32,7 +32,7 @@ seo:
       value: Tulisan sembarangan.
       keyName: property
     - name: 'og:image'
-      value: images/ampersand-preview.png
+      value: /images/Frame 6.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
