@@ -38,7 +38,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Ampersand Theme
+      value: Budianto Tinambunan
     - name: 'twitter:description'
       value: The preview of the Ampersand theme
     - name: 'twitter:image'
