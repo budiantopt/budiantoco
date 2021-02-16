@@ -15,7 +15,7 @@ intro_actions:
     label: Contact
     url: /contact
     style: secondary
-has_more_link: true
+has_more_link: false
 more_link_text: Read more
 seo:
   type: stackbit_page_meta
