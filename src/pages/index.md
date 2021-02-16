@@ -20,7 +20,7 @@ more_link_text: Read more
 seo:
   type: stackbit_page_meta
   title: Budianto Tinambunan
-  description: The preview of the Ampersand theme
+  description: Tulisan sembarangan.
   extra:
     - name: 'og:type'
       value: website
