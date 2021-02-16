@@ -40,7 +40,7 @@ seo:
     - name: 'twitter:title'
       value: Budianto Tinambunan
     - name: 'twitter:description'
-      value: The preview of the Ampersand theme
+      value: Tulisan sembarangan.
     - name: 'twitter:image'
       value: images/ampersand-preview.png
       relativeUrl: true
