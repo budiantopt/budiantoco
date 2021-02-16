@@ -17,7 +17,7 @@
             },
             {
                 "type": "action",
-                "label": "About",
+                "label": "Projects",
                 "url": "/about",
                 "style": "link"
             }
