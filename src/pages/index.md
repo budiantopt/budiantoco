@@ -42,7 +42,7 @@ seo:
     - name: 'twitter:description'
       value: Tulisan sembarangan.
     - name: 'twitter:image'
-      value: images/ampersand-preview.png
+      value: /images/Frame%206.png
       relativeUrl: true
 template: home
 ---
