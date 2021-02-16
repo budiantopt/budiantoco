@@ -7,7 +7,7 @@
         "title": "Budianto Tinambunan",
         "logo_img": "/images/Frame 3.svg",
         "logo_img_alt": "Budianto Tinambunan",
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [
             {
                 "type": "action",
