@@ -20,7 +20,7 @@ more_link_text: Baca selanjutnya
 seo:
   type: stackbit_page_meta
   title: Budianto Tinambunan
-  description: Tulisan sembarangan.
+  description: 'Tulisan sembarangan tentang teknologi, musik dan desain.'
   extra:
     - name: 'og:type'
       value: website
