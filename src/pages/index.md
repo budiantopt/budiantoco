@@ -29,7 +29,7 @@ seo:
       value: Budianto Tinambunan
       keyName: property
     - name: 'og:description'
-      value: Tulisan sembarangan.
+      value: 'Tulisan sembarangan tentang teknologi, musik dan desain.'
       keyName: property
     - name: 'og:image'
       value: /images/Frame 6.png
