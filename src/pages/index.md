@@ -29,7 +29,7 @@ seo:
       value: Budianto Tinambunan
       keyName: property
     - name: 'og:description'
-      value: The preview of the Ampersand theme
+      value: Tulisan sembarangan.
       keyName: property
     - name: 'og:image'
       value: images/ampersand-preview.png
