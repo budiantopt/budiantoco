@@ -40,7 +40,7 @@ seo:
     - name: 'twitter:title'
       value: Budianto Tinambunan
     - name: 'twitter:description'
-      value: Tulisan sembarangan.
+      value: 'Tulisan sembarangan tentang teknologi, musik dan desain.'
     - name: 'twitter:image'
       value: /images/Frame%206.png
       relativeUrl: true
