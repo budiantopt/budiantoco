@@ -6,7 +6,9 @@ subtitle: >-
 date: '2021-05-24'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: >-
+  Sebuah komparasi sederhana mengenai keunggulan sekeping plastik ukuran 12,5 cm
+  x 8.8 cm.
 seo:
   title: ''
   description: ''
