@@ -17,7 +17,7 @@
             },
             {
                 "type": "action",
-                "label": "Tentang",
+                "label": "Siapa?",
                 "url": "/about",
                 "style": "link"
             }
