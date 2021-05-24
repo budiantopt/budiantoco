@@ -32,7 +32,7 @@ seo:
       relativeUrl: true
 template: page
 ---
-Hai, gue\*\* Budianto Tinambunan\*\* adalah seorang Senior Motion Designer di ed-tech company terbesar di Southeast Asia berdomisili di Jakarta. Lulusan Desain Komunikasi Visual, gue memiliki dasar keilmuan sebagai multimedia designer's bekerja di berbagai proyek web, ux, dan motion graphics.
+Hai, gue **Budianto Tinambunan** adalah seorang Senior Motion Designer di ed-tech company terbesar di Southeast Asia berdomisili di Jakarta. Lulusan Desain Komunikasi Visual, gue memiliki dasar keilmuan sebagai multimedia designer's bekerja di berbagai proyek web, ux, dan motion graphics.
 
 Visi gue adalah menjadi manusia, di tengah society yang less human a bit robotic.
 
