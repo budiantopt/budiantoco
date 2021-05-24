@@ -1,6 +1,6 @@
 ---
 title: Memilih Kartu ATM terbaik dari Bank Digital Kekinian
-subtitle: Sebuah komparasi sederhana mengenai keunggulan sekeping plastik ukuran
+subtitle: 'Sebuah komparasi sederhana mengenai keunggulan sekeping plastik ukuran 12,5 x'
 date: '2021-05-24'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
