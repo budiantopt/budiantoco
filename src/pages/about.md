@@ -41,7 +41,7 @@ Bahkan dalam lirik sebuah lagu yang di bawakan seorang musisi Bandung berbunyi d
 > Menjadi manusia yang manusia …
 > adalah masalah buat manusia.
 >
-> Iksan Skuter
+> <citeIksan Skuter
 
 Sebagai hobi saat ini gue akan mencoba menulis secara aktif, sebagai medium untuk menuangkan apa yang gue alami, temukan, dan rasakan.
 
