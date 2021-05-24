@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Memilih Kartu ATM terbaik dari Bank Digital Kekinian
 subtitle: lorem-ipsum
 date: '2021-05-24'
 thumb_img_alt: lorem-ipsum
