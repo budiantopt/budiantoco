@@ -52,7 +52,9 @@ Sebagai hobi saat ini gue akan mencoba menulis secara aktif, sebagai medium untu
 
 Credits:
 
-*   Di tulis pada platform Jamstack SSG dengan template Ampersands.
+*   Di tulis pada platform Jamstack SSG dengan template Ampersands
+
+*   Netlify sebagai CMS dan Github sebagai storage SSG
 
 *   Ilustrasi di bantu oleh @syclumsy
 
