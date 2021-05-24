@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: Human After All
 subtitle: This is a short page about me and my work
 img_path: /images/61BEB33D-5678-44FE-ABB5-CC9DDA07858C.jpeg
 img_alt: A man standing on a rock outside the cave
