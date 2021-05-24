@@ -17,7 +17,7 @@
             },
             {
                 "type": "action",
-                "label": "Siapa?",
+                "label": "Apa ",
                 "url": "/about",
                 "style": "link"
             }
