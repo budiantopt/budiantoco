@@ -17,7 +17,7 @@
             },
             {
                 "type": "action",
-                "label": "Apa & siapa",
+                "label": "Siapa",
                 "url": "/about",
                 "style": "link"
             }
