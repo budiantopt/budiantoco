@@ -48,4 +48,8 @@ Gue kutip dari sebuah lagu yang isinya demikian:
 
 Sebagai hobi saat ini gue akan mencoba menulis secara aktif, sebagai medium untuk menuangkan apa yang gue alami, temukan, dan rasakan.
 
+*   Di tulis pada platform Jamstack SSG dengan template Ampersands.
+
+*   Ilustrasi di bantu oleh @syclumsy
+
 *Terima kasih sudah membaca, semoga kita sama-sama belajar!*
