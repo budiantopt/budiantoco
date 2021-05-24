@@ -17,7 +17,7 @@
             },
             {
                 "type": "action",
-                "label": "Project",
+                "label": "Tentang",
                 "url": "/about",
                 "style": "link"
             }
