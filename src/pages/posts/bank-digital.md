@@ -17,6 +17,7 @@ seo:
   type: stackbit_page_meta
 template: post
 thumb_img_path: /images/image.jpg
+content_img_path: /images/image.jpg
 ---
 Bank digital sekarang udah jadi hal lumrah buat semua orang; kemudahannya, simplisitasnya, sampe aksesibilitasnya udah jadi nilai jual setiap bank konvensional yang akhirnya memperbaiki produk mereka dengan menambahkan fitur banking web based, bisa diakses multi devices, proses automatisasi yang advanced,
 
