@@ -38,8 +38,8 @@ Visi gue adalah menjadi manusia, di tengah society yang less human a bit robotic
 
 Bahkan dalam lirik sebuah lagu yang di bawakan seorang musisi Bandung berbunyi demikian:
 
-> Menjadi manusia yang manusia … adalah masalah buat manusia.
->
+> Menjadi manusia yang manusia …
+> adalah masalah buat manusia.
 >
 > Iksan Skuter
 
