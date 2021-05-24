@@ -1,5 +1,5 @@
 ---
-title: You’re in!
+title: Yohoi!
 template: page
 ---
 
