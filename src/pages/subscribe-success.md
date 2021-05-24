@@ -2,7 +2,6 @@
 title: Yohoi!
 template: page
 ---
+Kamu sudah berlangganan **Bacotan Budianto** dan udah di konfirmasi.
 
-Your subscription to **Ampersand Newsletter** has been confirmed.
-
-**Thank you for subscribing!**
+**Makasih udah support dan berlangganan!**
