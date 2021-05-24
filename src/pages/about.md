@@ -32,11 +32,11 @@ seo:
       relativeUrl: true
 template: page
 ---
-Hai, gue **Budianto Tinambunan** adalah seorang Senior Motion Designer di ed-tech company terbesar di Southeast Asia berdomisili di Jakarta. Lulusan Desain Komunikasi Visual, gue memiliki dasar keilmuan sebagai multimedia designer's bekerja di berbagai proyek web, ux, dan motion graphics.
+Hai, gue **Budianto Tinambunan** adalah seorang Senior Motion Designer di ed-tech company terbesar di Southeast Asia dan saat ini berdomisili di Jakarta. Sebagai lulusan Desain Komunikasi Visual, gue memiliki dasar keilmuan sebagai multimedia designer's dan telah bekerja di berbagai proyek web, UX, dan motion graphics.
 
-Visi gue adalah menjadi manusia, di tengah society yang less human a bit robotic.
+Visi gue sebagai manusia adalah menjadi manusia; di tengah society yang less human, a bit robotic. Menjadi manusia aja bisa menjadi hal yang sulit.
 
-Bahkan dalam lirik sebuah lagu yang di bawakan seorang musisi Bandung berbunyi demikian:
+Gue kutip dari sebuah lagu yang isinya demikian:
 
 > Menjadi manusia yang manusia
 >
