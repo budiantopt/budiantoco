@@ -4,7 +4,7 @@ subtitle: >-
   Sebuah komparasi sederhana mengenai keunggulan sekeping plastik ukuran 12,5 cm
   x 8.8 cm.
 date: '2021-05-24'
-thumb_img_alt: lorem-ipsum
+thumb_img_alt: Memilih Kartu ATM terbaik dari Bank Digital Kekinian
 content_img_alt: lorem-ipsum
 excerpt: >-
   Sebuah komparasi sederhana mengenai keunggulan sekeping plastik ukuran 12,5 cm
