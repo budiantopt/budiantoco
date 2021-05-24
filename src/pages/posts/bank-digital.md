@@ -1,6 +1,6 @@
 ---
 title: Memilih Kartu ATM terbaik dari Bank Digital Kekinian
-subtitle: lorem-ipsum
+subtitle: Sebuah komparasi sederhana mengenai keunggulan
 date: '2021-05-24'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
