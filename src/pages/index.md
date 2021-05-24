@@ -44,4 +44,5 @@ seo:
       value: /images/Frame%206.png
       relativeUrl: true
 template: home
+more_link_text: Selanjutnya
 ---
