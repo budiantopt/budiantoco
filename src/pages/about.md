@@ -46,7 +46,11 @@ Gue kutip dari sebuah lagu yang isinya demikian:
 >
 > <cite>Iksan Skuter</cite>
 
+\__
+
 Sebagai hobi saat ini gue akan mencoba menulis secara aktif, sebagai medium untuk menuangkan apa yang gue alami, temukan, dan rasakan.
+
+Credits:
 
 *   Di tulis pada platform Jamstack SSG dengan template Ampersands.
 
