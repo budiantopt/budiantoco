@@ -32,17 +32,16 @@ seo:
       relativeUrl: true
 template: page
 ---
-Hai, gue** Budianto Tinambunan** adalah seorang Senior Motion Designer di ed-tech company terbesar di Southeast Asia berdomisili di Jakarta. Lulusan Desain Komunikasi Visual, gue memiliki dasar keilmuan sebagai multimedia designer's bekerja di berbagai proyek web, ux, dan motion graphics.
+Hai, gue\*\* Budianto Tinambunan\*\* adalah seorang Senior Motion Designer di ed-tech company terbesar di Southeast Asia berdomisili di Jakarta. Lulusan Desain Komunikasi Visual, gue memiliki dasar keilmuan sebagai multimedia designer's bekerja di berbagai proyek web, ux, dan motion graphics.
 
 Visi gue adalah menjadi manusia, di tengah society yang less human a bit robotic.
 
 Bahkan dalam lirik sebuah lagu yang di bawakan seorang musisi Bandung berbunyi demikian:
 
-> Menjadi manusia yang manusia … adalah masalah buat manusia. 
+> Menjadi manusia yang manusia … adalah masalah buat manusia.
 >
-> \<cite>
+>
 > Iksan Skuter
-> \</cite>
 
 Sebagai hobi saat ini gue akan mencoba menulis secara aktif, sebagai medium untuk menuangkan apa yang gue alami, temukan, dan rasakan.
 
